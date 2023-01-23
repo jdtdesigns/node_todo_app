@@ -1,6 +1,0 @@
-my todo
-another todo
-third todo
-fourth todo
-fifth todo
-6th todo
